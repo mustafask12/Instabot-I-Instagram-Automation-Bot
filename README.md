@@ -1,8 +1,8 @@
-\# 🤖 Instabot-I: Instagram Automation Bot
+# 🤖 Instabot-I: Instagram Automation Bot
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 Instabot-I is an Instagram automation project built with Python and Jupyter Notebook.  
 
@@ -12,41 +12,41 @@ This project demonstrates \*\*web automation skills\*\* using Selenium and Pytho
 
 
 
-\## ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-\- Python  
+- Python  
 
-\- Selenium  
+- Selenium  
 
-\- Jupyter Notebook  
-
-
-
-\## 🚀 Features
-
-\- Automated login with Instagram credentials  
-
-\- Like and comment on posts  
-
-\- Follow/unfollow Instagram users  
-
-\- Extract profile information (followers, bio, etc.)  
+- Jupyter Notebook  
 
 
 
-\## 🧩 Learning Highlights
+## 🚀 Features
 
-\- Built a real-world automation tool with Python  
+- Automated login with Instagram credentials  
 
-\- Gained hands-on experience in browser automation with Selenium  
+- Like and comment on posts  
 
-\- Showcased ability to design scripts for practical use cases  
+- Follow/unfollow Instagram users  
+
+- Extract profile information (followers, bio, etc.)  
 
 
 
-\## 🖥️ How to Run
+## 🧩 Learning Highlights
 
-1\. Clone the repository:
+- Built a real-world automation tool with Python  
+
+- Gained hands-on experience in browser automation with Selenium  
+
+- Showcased ability to design scripts for practical use cases  
+
+
+
+## 🖥️ How to Run
+
+1. Clone the repository:
 
 &nbsp;  ```bash
 
