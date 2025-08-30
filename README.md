@@ -50,9 +50,9 @@ This project demonstrates \*\*web automation skills\*\* using Selenium and Pytho
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/YOUR\_USERNAME/Instabot-I.git
+&nbsp;  git clone https://github.com/YOUR\_USERNAME/Instabot-I-Instagram-Automation-Bot.git
 
-&nbsp;  cd Instabot-I
+&nbsp;  cd Instabot-I-Instagram-Automation-Bot
 
 2.Install dependencies:
 
@@ -70,6 +70,7 @@ jupyter notebook
 
 
 
+
 📊 Results
 
 * Automated repetitive Instagram interactions
@@ -77,6 +78,7 @@ jupyter notebook
 
 
 * Saved manual effort in social media management
+
 
 
 
